@@ -1,5 +1,9 @@
 # [johnmayou.com](https://www.johnmayou.com)
 
+> [!IMPORTANT]
+> This is an older version of my personal site and is no longer maintained or deployed.
+> My current site still lives at [johnmayou.com](https://www.johnmayou.com).
+
 A full-stack personal site and portfolio workspace to organize my written markdown content on a hosted website. The UI is designed like an IDE (like VSCode) with an HTML preview and syntax highlighting.
 
 ## Highlights
